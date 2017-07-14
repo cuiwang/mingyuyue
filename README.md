@@ -1,5 +1,5 @@
 # mingyuyue 名余曰
-##古诗词取名后台
+## 古诗词取名后台
 
  ![名余曰](https://ws3.sinaimg.cn/large/006tKfTcgy1fhjge4gnnij308y08y0tb.jpg)
  
@@ -14,7 +14,7 @@
 2. 复制根目录下env_example.txt 重命名为.env
 3. 导入根目录下的mingyuyue.sql文件到你的数据库
 4. 修改.env中DB_开头的内容,为你的数据库信息
-###基本功能
+### 基本功能
 1. 后台录入古文
 2. 去除古文中特殊字符和常用语气词
 3. 单个字拆分或两个字拆分
@@ -23,7 +23,7 @@
 6. 收藏功能
 7. 其他
 
-###接口说明
+### 接口说明
 
 ```
 //==================后台录入古文======================
@@ -92,7 +92,7 @@ Route::get('/findData/{name}', 'DataController@findData');
 Route::get('/clearTable/{id}','IndexController@clearTable');
 //===========================================================
 ```
-###后台录入操作流程
+### 后台录入操作流程
 1. 后台录入古文 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fhjfx5autej30u00l6wfq.jpg)
 2. 调用生成名字接口 name/makename
 
