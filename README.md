@@ -3,6 +3,7 @@
 
  
 ### 支撑微信小程序 [ 名余曰 ] , 通过拆分古文生成名字.
+**微信小程序请移步 [名余曰微信小程序](https://github.com/cuiwang/wx_mingyuyue)**
 
 **基于Laravel 5.3,PHP >=5.6.10,MYSQL >=5.5**
 
