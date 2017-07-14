@@ -1,9 +1,13 @@
-# mingyuyue
+# mingyuyue 名余曰
 ##古诗词取名后台
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1fhjge4gnnij308y08y0tb.jpg)
+
+ ![名余曰](https://ws3.sinaimg.cn/large/006tKfTcgy1fhjge4gnnij308y08y0tb.jpg)
+ 
 ### 支撑微信小程序 [ 名余曰 ] , 通过拆分古文生成名字.
+
 **基于Laravel 5.3,PHP >=5.6.10,MYSQL >=5.5**
-####任何问题欢迎加入QQ群交流: **287021519** 言无不知,知无不尽
+
+##### 任何问题欢迎加入QQ群交流: **287021519** 言无不知,知无不尽
 -------
 ## 程序运行说明
 1. 搭建好LAMP或WAMP环境 , 创建好站点 , 复制所有文件到站点根目录**(给好权限)**
